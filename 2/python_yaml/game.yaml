@@ -1,0 +1,18 @@
+spiderman:
+  hp: 1001
+  power: 101
+  skill: 3
+
+superman:
+  hp: 2000
+  power: 80
+  skill: 1
+
+wangmunn:
+  hp: 1000
+  power: 100
+  skill: 1
+
+default:
+  - spiderman
+  - superman

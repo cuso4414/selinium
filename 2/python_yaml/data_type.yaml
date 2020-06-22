@@ -1,0 +1,9 @@
+
+int1: 1
+float1: 12.30
+bool1: true
+bool2: false
+none1: ~
+time: 2020-05-10
+n1: !!str 123
+n2: !!str true
